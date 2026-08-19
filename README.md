@@ -156,8 +156,8 @@
 
 ### Reverse Engineering Tools
 
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,516 | 🐛 1,917 | 🌐 Java | 📅 2026-08-18 - A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
-* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,597 | 🐛 822 | 🌐 C | 📅 2026-08-19 - UNIX-like reverse engineering framework and command-line toolset.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,517 | 🐛 1,917 | 🌐 Java | 📅 2026-08-18 - A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
+* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,597 | 🐛 821 | 🌐 C | 📅 2026-08-19 - UNIX-like reverse engineering framework and command-line toolset.
 * [Cutter](https://github.com/rizinorg/cutter) ⭐ 19,476 | 🐛 493 | 🌐 C++ | 📅 2026-08-13 - Free and Open Source Reverse Engineering Platform powered by rizin.
 * [iOS App Signer](https://github.com/DanTheMan827/ios-app-signer) ⭐ 6,313 | 🐛 123 | 🌐 Objective-C | 📅 2025-09-01 - An app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 * [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) ⭐ 3,913 | 🐛 107 | 🌐 JavaScript | 📅 2023-05-03 - A tool to pull a decrypted IPA from a jailbroken device.
@@ -178,13 +178,13 @@
 
 ### Dynamic Analysis Tools
 
-* [Frida](https://github.com/frida/frida) ⭐ 21,670 | 🐛 1,958 | 🌐 Meson | 📅 2026-08-18 - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
-* [objection](https://github.com/sensepost/objection) ⭐ 9,327 | 🐛 55 | 🌐 Python | 📅 2026-07-23 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
+* [Frida](https://github.com/frida/frida) ⭐ 21,671 | 🐛 1,958 | 🌐 Meson | 📅 2026-08-18 - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+* [objection](https://github.com/sensepost/objection) ⭐ 9,328 | 🐛 55 | 🌐 Python | 📅 2026-07-23 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 * [Qiling](https://github.com/qilingframework/qiling) ⭐ 6,065 | 🐛 123 | 🌐 Python | 📅 2026-07-22 - An advanced binary emulation framework.
 * [fishhook](https://github.com/facebook/fishhook) ⭐ 5,424 | 🐛 39 | 🌐 C | 📅 2024-08-01 - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
 * [unidbg](https://github.com/zhkl0228/unidbg) ⭐ 5,145 | 🐛 419 | 🌐 Java | 📅 2026-08-07 - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation.
 * [ios-deploy](https://github.com/ios-control/ios-deploy) ⭐ 3,637 | 🐛 45 | 🌐 Objective-C | 📅 2024-06-24 - Install and debug iOS apps from the command line. Designed to work on un-jailbroken devices.
-* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,071 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-03 - Runtime Mobile Security (RMS), powered by FRIDA, is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.
+* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,071 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-03 - Runtime Mobile Security (RMS), powered by FRIDA, is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.
 * [Passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - Simple iOS app blackbox assessment tool, powered by frida 12.x and vuejs.
 * [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,433 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-12 - Radare2 and Frida better together.
 * [Grapefruit](https://github.com/ChiChou/grapefruit) ⭐ 1,378 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-11 - Runtime Application Instruments for iOS.

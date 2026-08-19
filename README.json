@@ -185,7 +185,7 @@
                 "last_commit": "2026-08-18T16:16:20Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72516
+                "stars": 72517
               }
             },
             {
@@ -197,7 +197,7 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-19T11:03:59Z",
+                "last_commit": "2026-08-19T13:46:56Z",
                 "owner": "radareorg",
                 "repo": "radare2",
                 "stars": 24597
@@ -402,7 +402,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21670
+                "stars": 21671
               }
             },
             {
@@ -417,7 +417,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9327
+                "stars": 9328
               }
             },
             {
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:33.920Z",
+    "last_updated": "2026-08-19T13:55:23.324Z",
     "original_repository": "BlackSquirrelz/awesome-apple-security",
     "original_repository_id": 478600500,
     "original_repository_sha": "972b2d580bbd1109bbea85358dfdea4942c2d712",
