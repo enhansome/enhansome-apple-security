@@ -1,60 +1,65 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Auditor",
+              "description": "Deprecated macOS DFIR tool for older systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10801048,
+                "language": "JavaScript",
+                "last_commit": "2020-07-27T22:34:25Z",
+                "owner": "jipegit",
+                "repo": "OSXAuditor",
+                "stars": 3135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Collector",
+              "description": "macOS offshoot for live response.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22615096,
+                "language": "Python",
+                "last_commit": "2019-06-19T15:40:49Z",
+                "owner": "YelpArchive",
+                "repo": "osxcollector",
+                "stars": 1895
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mac_apt",
+              "description": "Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101311218,
+                "language": "Python",
+                "last_commit": "2026-07-23T09:14:30Z",
+                "owner": "ydkhatri",
+                "repo": "mac_apt",
+                "stars": 1077
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Acquisition and Evidence Collection"
+        }
+      ],
       "title": "Forensics"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Auditor",
-          "description": "Deprecated macOS DFIR tool for older systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-07-27T22:34:25Z",
-            "owner": "jipegit",
-            "repo": "OSXAuditor",
-            "stars": 3135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Collector",
-          "description": "macOS offshoot for live response.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-06-19T15:40:49Z",
-            "owner": "YelpArchive",
-            "repo": "osxcollector",
-            "stars": 1895
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mac_apt",
-          "description": "Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-23T09:14:30Z",
-            "owner": "ydkhatri",
-            "repo": "mac_apt",
-            "stars": 1075
-          }
-        }
-      ],
-      "title": "Acquisition and Evidence Collection"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -63,11 +68,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302800491,
             "language": "Assembly",
             "last_commit": "2026-05-30T07:11:00Z",
             "owner": "vxunderground",
             "repo": "MalwareSourceCode",
-            "stars": 18651
+            "stars": 18660
           }
         },
         {
@@ -77,634 +83,678 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 583769059,
             "language": null,
             "last_commit": "2026-08-13T15:03:32Z",
             "owner": "objective-see",
             "repo": "Malware",
-            "stars": 745
+            "stars": 747
           }
         }
       ],
       "title": "Malware"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "iOS FS Event Parser",
+              "description": "Parsing filesystem events.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49460698,
+                "language": "Python",
+                "last_commit": "2024-12-04T17:40:58Z",
+                "owner": "dlcowen",
+                "repo": "FSEventsParser",
+                "stars": 283
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "macOS FS Events Parser",
+              "description": "FS Events Parser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 796928414,
+                "language": "Python",
+                "last_commit": "2024-05-06T22:19:24Z",
+                "owner": "mac4n6",
+                "repo": "FSEventsParser",
+                "stars": 46
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "File System"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SwiftSpy",
+              "description": "macOS Keyloger written in Swift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308221697,
+                "language": "Swift",
+                "last_commit": "2021-09-01T19:08:43Z",
+                "owner": "slyd0g",
+                "repo": "SwiftSpy",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VOODOO",
+              "description": "Browser Attack Framework for macOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467227970,
+                "language": "Ruby",
+                "last_commit": "2024-12-24T22:09:06Z",
+                "owner": "breakpointHQ",
+                "repo": "VOODOO",
+                "stars": 51
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Offensive Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ghidra",
+              "description": "A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173228436,
+                "language": "Java",
+                "last_commit": "2026-08-18T16:16:20Z",
+                "owner": "NationalSecurityAgency",
+                "repo": "ghidra",
+                "stars": 72516
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Radare2",
+              "description": "UNIX-like reverse engineering framework and command-line toolset.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4869294,
+                "language": "C",
+                "last_commit": "2026-08-19T11:03:59Z",
+                "owner": "radareorg",
+                "repo": "radare2",
+                "stars": 24597
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cutter",
+              "description": "Free and Open Source Reverse Engineering Platform powered by rizin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104732438,
+                "language": "C++",
+                "last_commit": "2026-08-13T22:31:03Z",
+                "owner": "rizinorg",
+                "repo": "cutter",
+                "stars": 19476
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS App Signer",
+              "description": "An app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45699315,
+                "language": "Objective-C",
+                "last_commit": "2025-09-01T00:42:47Z",
+                "owner": "DanTheMan827",
+                "repo": "ios-app-signer",
+                "stars": 6313
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frida-ios-dump",
+              "description": "A tool to pull a decrypted IPA from a jailbroken device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112638598,
+                "language": "JavaScript",
+                "last_commit": "2023-05-03T01:42:52Z",
+                "owner": "AloneMonkey",
+                "repo": "frida-ios-dump",
+                "stars": 3913
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clutch",
+              "description": "A high-speed iOS decryption tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15789289,
+                "language": "Objective-C",
+                "last_commit": "2024-11-15T10:31:48Z",
+                "owner": "KJCracks",
+                "repo": "Clutch",
+                "stars": 3823
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "class-dump",
+              "description": "A command-line utility for examining the Objective-C segment of Mach-O files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1629150,
+                "language": "Objective-C",
+                "last_commit": "2022-04-06T09:30:24Z",
+                "owner": "nygard",
+                "repo": "class-dump",
+                "stars": 3585
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bagbak",
+              "description": "Yet another frida based App decryptor. Requires jailbroken iOS device and frida.re.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135033395,
+                "language": "TypeScript",
+                "last_commit": "2026-07-24T09:46:16Z",
+                "owner": "ChiChou",
+                "repo": "bagbak",
+                "stars": 1487
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dsdump",
+              "description": "An improved nm + objc/swift class-dump tool.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 174772034,
+                "language": "Objective-C++",
+                "last_commit": "2024-02-05T18:03:39Z",
+                "owner": "DerekSelander",
+                "repo": "dsdump",
+                "stars": 1226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flexdecrypt",
+              "description": "An iOS App & Mach-O binary decryptor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276248578,
+                "language": "Swift",
+                "last_commit": "2023-06-24T21:09:20Z",
+                "owner": "JohnCoates",
+                "repo": "flexdecrypt",
+                "stars": 737
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bfinject",
+              "description": "Easy dylib injection for jailbroken 64-bit iOS 11.0 - 11.1.2. Compatible with Electra and LiberiOS jailbreaks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118323368,
+                "language": "Objective-C++",
+                "last_commit": "2022-03-17T17:55:10Z",
+                "owner": "BishopFox",
+                "repo": "bfinject",
+                "stars": 641
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bfdecrypt",
+              "description": "Utility to decrypt App Store apps on jailbroken iOS 11.x.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118653109,
+                "language": "C",
+                "last_commit": "2020-05-24T12:57:38Z",
+                "owner": "BishopFox",
+                "repo": "bfdecrypt",
+                "stars": 488
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftDump",
+              "description": "A command-line tool for retriving the Swift Object info from Mach-O file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277268277,
+                "language": "Swift",
+                "last_commit": "2023-08-18T02:54:54Z",
+                "owner": "neil-wu",
+                "repo": "SwiftDump",
+                "stars": 442
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "r2flutch",
+              "description": "Yet another tool to decrypt iOS apps using r2frida.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 401239639,
+                "language": "Python",
+                "last_commit": "2026-04-16T10:36:44Z",
+                "owner": "as0ler",
+                "repo": "r2flutch",
+                "stars": 183
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reverse Engineering Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Frida",
+              "description": "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9405122,
+                "language": "Meson",
+                "last_commit": "2026-08-18T13:32:43Z",
+                "owner": "frida",
+                "repo": "frida",
+                "stars": 21670
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "objection",
+              "description": "A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95770373,
+                "language": "Python",
+                "last_commit": "2026-07-23T13:40:22Z",
+                "owner": "sensepost",
+                "repo": "objection",
+                "stars": 9327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Qiling",
+              "description": "An advanced binary emulation framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203799854,
+                "language": "Python",
+                "last_commit": "2026-07-22T14:09:44Z",
+                "owner": "qilingframework",
+                "repo": "qiling",
+                "stars": 6065
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fishhook",
+              "description": "A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11351927,
+                "language": "C",
+                "last_commit": "2024-08-01T06:10:59Z",
+                "owner": "facebook",
+                "repo": "fishhook",
+                "stars": 5424
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "unidbg",
+              "description": "Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172680589,
+                "language": "Java",
+                "last_commit": "2026-08-07T07:58:34Z",
+                "owner": "zhkl0228",
+                "repo": "unidbg",
+                "stars": 5145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ios-deploy",
+              "description": "Install and debug iOS apps from the command line. Designed to work on un-jailbroken devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9777570,
+                "language": "Objective-C",
+                "last_commit": "2024-06-24T15:30:35Z",
+                "owner": "ios-control",
+                "repo": "ios-deploy",
+                "stars": 3637
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Runtime Mobile Security (RMS)",
+              "description": "Runtime Mobile Security (RMS), powered by FRIDA, is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250552704,
+                "language": "JavaScript",
+                "last_commit": "2026-08-03T21:28:34Z",
+                "owner": "m0bilesecurity",
+                "repo": "RMS-Runtime-Mobile-Security",
+                "stars": 3071
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Passionfruit",
+              "description": "Simple iOS app blackbox assessment tool, powered by frida 12.x and vuejs.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 84626055,
+                "language": "Vue",
+                "last_commit": "2021-11-14T20:51:08Z",
+                "owner": "chaitin",
+                "repo": "passionfruit",
+                "stars": 1668
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "r2frida",
+              "description": "Radare2 and Frida better together.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35610263,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T14:46:22Z",
+                "owner": "nowsecure",
+                "repo": "r2frida",
+                "stars": 1433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Grapefruit",
+              "description": "Runtime Application Instruments for iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250478233,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T19:32:49Z",
+                "owner": "ChiChou",
+                "repo": "grapefruit",
+                "stars": 1378
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dwarf",
+              "description": "Full featured multi arch/os debugger built on top of PyQt5 and frida.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162325852,
+                "language": "Python",
+                "last_commit": "2024-05-16T07:32:52Z",
+                "owner": "iGio90",
+                "repo": "Dwarf",
+                "stars": 1316
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frida-gum",
+              "description": "Cross-platform instrumentation and introspection library written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9340574,
+                "language": "C",
+                "last_commit": "2026-08-18T13:32:01Z",
+                "owner": "frida",
+                "repo": "frida-gum",
+                "stars": 1003
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iproxy",
+              "description": "A utility allows binding local TCP ports so that a connection to one (or more) of the local ports will be forwarded to the specified port (or ports) on a usbmux device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12892000,
+                "language": "C",
+                "last_commit": "2025-09-07T22:15:00Z",
+                "owner": "libimobiledevice",
+                "repo": "libusbmuxd",
+                "stars": 686
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "r2ghidra",
+              "description": "An integration of the Ghidra decompiler for radare2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 323166300,
+                "language": "C++",
+                "last_commit": "2026-08-16T21:51:25Z",
+                "owner": "radareorg",
+                "repo": "r2ghidra",
+                "stars": 538
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fridax",
+              "description": "Fridax enables you to read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245381045,
+                "language": "JavaScript",
+                "last_commit": "2023-04-04T09:36:16Z",
+                "owner": "NorthwaveSecurity",
+                "repo": "fridax",
+                "stars": 180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aah",
+              "description": "Run iOS arm64 binaries on x86_64 macOS, with varying degrees of success.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183937256,
+                "language": "Objective-C",
+                "last_commit": "2020-08-15T13:04:01Z",
+                "owner": "zydeco",
+                "repo": "aah",
+                "stars": 180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FridaHookSwiftAlamofire",
+              "description": "A frida tool that capture GET/POST HTTP requests of iOS Swift library 'Alamofire' and disable SSL Pinning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279887938,
+                "language": "TypeScript",
+                "last_commit": "2023-01-06T11:33:25Z",
+                "owner": "neil-wu",
+                "repo": "FridaHookSwiftAlamofire",
+                "stars": 112
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dynamic Analysis Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Keychain Dumper",
+              "description": "A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1419482,
+                "language": "Objective-C",
+                "last_commit": "2024-08-15T08:22:49Z",
+                "owner": "ptoomey3",
+                "repo": "Keychain-Dumper",
+                "stars": 1419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iLEAPP",
+              "description": "An iOS Logs, Events, And Plist Parser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229842283,
+                "language": "Python",
+                "last_commit": "2026-08-19T04:53:33Z",
+                "owner": "abrignoni",
+                "repo": "iLEAPP",
+                "stars": 1157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XMachOViewer",
+              "description": "A Mach-O viewer for Windows, Linux and macOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 182052450,
+                "language": "C++",
+                "last_commit": "2026-08-18T22:48:24Z",
+                "owner": "horsicq",
+                "repo": "XMachOViewer",
+                "stars": 960
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MachO-Explorer",
+              "description": "A graphical Mach-O viewer for macOS. Powered by Mach-O Kit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121094462,
+                "language": "Swift",
+                "last_commit": "2020-09-05T02:29:35Z",
+                "owner": "DeVaukz",
+                "repo": "MachO-Explorer",
+                "stars": 677
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BinaryCookieReader",
+              "description": "A tool to read the binarycookie format of Cookies on iOS applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33782045,
+                "language": "Python",
+                "last_commit": "2024-09-28T12:36:36Z",
+                "owner": "as0ler",
+                "repo": "BinaryCookieReader",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PList Viewer",
+              "description": "Gtk application to view property list files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27528427,
+                "language": "C",
+                "last_commit": "2015-05-28T18:52:18Z",
+                "owner": "TingPing",
+                "repo": "plist-viewer",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Static Analysis Tools"
+        }
+      ],
       "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "iOS FS Event Parser",
-          "description": "Parsing filesystem events.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-04T17:40:58Z",
-            "owner": "dlcowen",
-            "repo": "FSEventsParser",
-            "stars": 283
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "macOS FS Events Parser",
-          "description": "FS Events Parser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-06T22:19:24Z",
-            "owner": "mac4n6",
-            "repo": "FSEventsParser",
-            "stars": 46
-          }
-        }
-      ],
-      "title": "File System"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SwiftSpy",
-          "description": "macOS Keyloger written in Swift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-09-01T19:08:43Z",
-            "owner": "slyd0g",
-            "repo": "SwiftSpy",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VOODOO",
-          "description": "Browser Attack Framework for macOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-12-24T22:09:06Z",
-            "owner": "breakpointHQ",
-            "repo": "VOODOO",
-            "stars": 51
-          }
-        }
-      ],
-      "title": "Offensive Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Ghidra",
-          "description": "A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T08:59:20Z",
-            "owner": "NationalSecurityAgency",
-            "repo": "ghidra",
-            "stars": 72479
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Radare2",
-          "description": "UNIX-like reverse engineering framework and command-line toolset.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T13:28:54Z",
-            "owner": "radareorg",
-            "repo": "radare2",
-            "stars": 24590
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cutter",
-          "description": "Free and Open Source Reverse Engineering Platform powered by rizin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-13T22:31:03Z",
-            "owner": "rizinorg",
-            "repo": "cutter",
-            "stars": 19471
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iOS App Signer",
-          "description": "An app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2025-09-01T00:42:47Z",
-            "owner": "DanTheMan827",
-            "repo": "ios-app-signer",
-            "stars": 6313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "frida-ios-dump",
-          "description": "A tool to pull a decrypted IPA from a jailbroken device.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-05-03T01:42:52Z",
-            "owner": "AloneMonkey",
-            "repo": "frida-ios-dump",
-            "stars": 3910
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clutch",
-          "description": "A high-speed iOS decryption tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2024-11-15T10:31:48Z",
-            "owner": "KJCracks",
-            "repo": "Clutch",
-            "stars": 3822
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "class-dump",
-          "description": "A command-line utility for examining the Objective-C segment of Mach-O files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2022-04-06T09:30:24Z",
-            "owner": "nygard",
-            "repo": "class-dump",
-            "stars": 3585
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bagbak",
-          "description": "Yet another frida based App decryptor. Requires jailbroken iOS device and frida.re.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-24T09:46:16Z",
-            "owner": "ChiChou",
-            "repo": "bagbak",
-            "stars": 1486
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dsdump",
-          "description": "An improved nm + objc/swift class-dump tool.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Objective-C++",
-            "last_commit": "2024-02-05T18:03:39Z",
-            "owner": "DerekSelander",
-            "repo": "dsdump",
-            "stars": 1226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flexdecrypt",
-          "description": "An iOS App & Mach-O binary decryptor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-06-24T21:09:20Z",
-            "owner": "JohnCoates",
-            "repo": "flexdecrypt",
-            "stars": 737
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bfinject",
-          "description": "Easy dylib injection for jailbroken 64-bit iOS 11.0 - 11.1.2. Compatible with Electra and LiberiOS jailbreaks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C++",
-            "last_commit": "2022-03-17T17:55:10Z",
-            "owner": "BishopFox",
-            "repo": "bfinject",
-            "stars": 641
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bfdecrypt",
-          "description": "Utility to decrypt App Store apps on jailbroken iOS 11.x.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-05-24T12:57:38Z",
-            "owner": "BishopFox",
-            "repo": "bfdecrypt",
-            "stars": 488
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwiftDump",
-          "description": "A command-line tool for retriving the Swift Object info from Mach-O file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-08-18T02:54:54Z",
-            "owner": "neil-wu",
-            "repo": "SwiftDump",
-            "stars": 442
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "r2flutch",
-          "description": "Yet another tool to decrypt iOS apps using r2frida.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-16T10:36:44Z",
-            "owner": "as0ler",
-            "repo": "r2flutch",
-            "stars": 183
-          }
-        }
-      ],
-      "title": "Reverse Engineering Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Frida",
-          "description": "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Meson",
-            "last_commit": "2026-08-18T13:32:43Z",
-            "owner": "frida",
-            "repo": "frida",
-            "stars": 21661
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "objection",
-          "description": "A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-23T13:40:22Z",
-            "owner": "sensepost",
-            "repo": "objection",
-            "stars": 9322
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Qiling",
-          "description": "An advanced binary emulation framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-22T14:09:44Z",
-            "owner": "qilingframework",
-            "repo": "qiling",
-            "stars": 6064
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fishhook",
-          "description": "A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-08-01T06:10:59Z",
-            "owner": "facebook",
-            "repo": "fishhook",
-            "stars": 5424
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "unidbg",
-          "description": "Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-07T07:58:34Z",
-            "owner": "zhkl0228",
-            "repo": "unidbg",
-            "stars": 5140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ios-deploy",
-          "description": "Install and debug iOS apps from the command line. Designed to work on un-jailbroken devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2024-06-24T15:30:35Z",
-            "owner": "ios-control",
-            "repo": "ios-deploy",
-            "stars": 3637
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Runtime Mobile Security (RMS)",
-          "description": "Runtime Mobile Security (RMS), powered by FRIDA, is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-03T21:28:34Z",
-            "owner": "m0bilesecurity",
-            "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3070
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Passionfruit",
-          "description": "Simple iOS app blackbox assessment tool, powered by frida 12.x and vuejs.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vue",
-            "last_commit": "2021-11-14T20:51:08Z",
-            "owner": "chaitin",
-            "repo": "passionfruit",
-            "stars": 1668
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "r2frida",
-          "description": "Radare2 and Frida better together.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T14:46:22Z",
-            "owner": "nowsecure",
-            "repo": "r2frida",
-            "stars": 1433
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Grapefruit",
-          "description": "Runtime Application Instruments for iOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T19:32:49Z",
-            "owner": "ChiChou",
-            "repo": "grapefruit",
-            "stars": 1377
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dwarf",
-          "description": "Full featured multi arch/os debugger built on top of PyQt5 and frida.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-16T07:32:52Z",
-            "owner": "iGio90",
-            "repo": "Dwarf",
-            "stars": 1316
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "frida-gum",
-          "description": "Cross-platform instrumentation and introspection library written in C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T13:32:01Z",
-            "owner": "frida",
-            "repo": "frida-gum",
-            "stars": 1003
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iproxy",
-          "description": "A utility allows binding local TCP ports so that a connection to one (or more) of the local ports will be forwarded to the specified port (or ports) on a usbmux device.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-09-07T22:15:00Z",
-            "owner": "libimobiledevice",
-            "repo": "libusbmuxd",
-            "stars": 686
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "r2ghidra",
-          "description": "An integration of the Ghidra decompiler for radare2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-16T21:51:25Z",
-            "owner": "radareorg",
-            "repo": "r2ghidra",
-            "stars": 538
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fridax",
-          "description": "Fridax enables you to read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-04-04T09:36:16Z",
-            "owner": "NorthwaveSecurity",
-            "repo": "fridax",
-            "stars": 180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aah",
-          "description": "Run iOS arm64 binaries on x86_64 macOS, with varying degrees of success.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2020-08-15T13:04:01Z",
-            "owner": "zydeco",
-            "repo": "aah",
-            "stars": 180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FridaHookSwiftAlamofire",
-          "description": "A frida tool that capture GET/POST HTTP requests of iOS Swift library 'Alamofire' and disable SSL Pinning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-06T11:33:25Z",
-            "owner": "neil-wu",
-            "repo": "FridaHookSwiftAlamofire",
-            "stars": 112
-          }
-        }
-      ],
-      "title": "Dynamic Analysis Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Keychain Dumper",
-          "description": "A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2024-08-15T08:22:49Z",
-            "owner": "ptoomey3",
-            "repo": "Keychain-Dumper",
-            "stars": 1419
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iLEAPP",
-          "description": "An iOS Logs, Events, And Plist Parser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T05:52:58Z",
-            "owner": "abrignoni",
-            "repo": "iLEAPP",
-            "stars": 1154
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "XMachOViewer",
-          "description": "A Mach-O viewer for Windows, Linux and macOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T06:26:04Z",
-            "owner": "horsicq",
-            "repo": "XMachOViewer",
-            "stars": 960
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MachO-Explorer",
-          "description": "A graphical Mach-O viewer for macOS. Powered by Mach-O Kit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-09-05T02:29:35Z",
-            "owner": "DeVaukz",
-            "repo": "MachO-Explorer",
-            "stars": 677
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BinaryCookieReader",
-          "description": "A tool to read the binarycookie format of Cookies on iOS applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-28T12:36:36Z",
-            "owner": "as0ler",
-            "repo": "BinaryCookieReader",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PList Viewer",
-          "description": "Gtk application to view property list files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2015-05-28T18:52:18Z",
-            "owner": "TingPing",
-            "repo": "plist-viewer",
-            "stars": 20
-          }
-        }
-      ],
-      "title": "Static Analysis Tools"
-    },
-    {
-      "description": "Your contributions are always welcome! Please read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:54:59.260Z",
+    "last_updated": "2026-08-19T12:15:33.920Z",
     "original_repository": "BlackSquirrelz/awesome-apple-security",
+    "original_repository_id": 478600500,
     "original_repository_sha": "972b2d580bbd1109bbea85358dfdea4942c2d712",
     "enhanced_repository": "enhansome/enhansome-apple-security",
     "enhanced_repository_description": null,
