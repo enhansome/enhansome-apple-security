@@ -73,7 +73,7 @@
             "last_commit": "2026-05-30T07:11:00Z",
             "owner": "vxunderground",
             "repo": "MalwareSourceCode",
-            "stars": 18663
+            "stars": 18664
           }
         },
         {
@@ -185,7 +185,7 @@
                 "last_commit": "2026-08-20T13:07:30Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72657
+                "stars": 72695
               }
             },
             {
@@ -197,10 +197,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-22T11:21:08Z",
+                "last_commit": "2026-08-23T13:27:27Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24617
+                "stars": 24625
               }
             },
             {
@@ -212,10 +212,10 @@
                 "archived": false,
                 "id": 104732438,
                 "language": "C++",
-                "last_commit": "2026-08-13T22:31:03Z",
+                "last_commit": "2026-08-22T19:13:16Z",
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 19490
+                "stars": 19547
               }
             },
             {
@@ -290,7 +290,7 @@
                 "last_commit": "2026-07-24T09:46:16Z",
                 "owner": "ChiChou",
                 "repo": "bagbak",
-                "stars": 1491
+                "stars": 1492
               }
             },
             {
@@ -320,7 +320,7 @@
                 "last_commit": "2023-06-24T21:09:20Z",
                 "owner": "JohnCoates",
                 "repo": "flexdecrypt",
-                "stars": 736
+                "stars": 737
               }
             },
             {
@@ -335,7 +335,7 @@
                 "last_commit": "2022-03-17T17:55:10Z",
                 "owner": "BishopFox",
                 "repo": "bfinject",
-                "stars": 641
+                "stars": 642
               }
             },
             {
@@ -350,7 +350,7 @@
                 "last_commit": "2020-05-24T12:57:38Z",
                 "owner": "BishopFox",
                 "repo": "bfdecrypt",
-                "stars": 488
+                "stars": 490
               }
             },
             {
@@ -402,7 +402,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21692
+                "stars": 21702
               }
             },
             {
@@ -432,7 +432,7 @@
                 "last_commit": "2026-07-22T14:09:44Z",
                 "owner": "qilingframework",
                 "repo": "qiling",
-                "stars": 6068
+                "stars": 6070
               }
             },
             {
@@ -462,7 +462,7 @@
                 "last_commit": "2026-08-07T07:58:34Z",
                 "owner": "zhkl0228",
                 "repo": "unidbg",
-                "stars": 5153
+                "stars": 5155
               }
             },
             {
@@ -594,7 +594,7 @@
                 "archived": false,
                 "id": 323166300,
                 "language": "C++",
-                "last_commit": "2026-08-16T21:51:25Z",
+                "last_commit": "2026-08-23T11:27:36Z",
                 "owner": "radareorg",
                 "repo": "r2ghidra",
                 "stars": 539
@@ -679,7 +679,7 @@
                 "last_commit": "2026-08-22T05:13:22Z",
                 "owner": "abrignoni",
                 "repo": "iLEAPP",
-                "stars": 1165
+                "stars": 1166
               }
             },
             {
@@ -691,7 +691,7 @@
                 "archived": false,
                 "id": 182052450,
                 "language": "C++",
-                "last_commit": "2026-08-22T06:26:06Z",
+                "last_commit": "2026-08-23T06:26:03Z",
                 "owner": "horsicq",
                 "repo": "XMachOViewer",
                 "stars": 959
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:42:20.264Z",
+    "last_updated": "2026-08-23T13:43:54.656Z",
     "original_repository": "BlackSquirrelz/awesome-apple-security",
     "original_repository_id": 478600500,
     "original_repository_sha": "972b2d580bbd1109bbea85358dfdea4942c2d712",
