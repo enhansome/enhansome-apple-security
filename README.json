@@ -73,7 +73,7 @@
             "last_commit": "2026-05-30T07:11:00Z",
             "owner": "vxunderground",
             "repo": "MalwareSourceCode",
-            "stars": 18664
+            "stars": 18666
           }
         },
         {
@@ -207,7 +207,7 @@
                 "last_commit": "2026-08-24T08:41:59Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72739
+                "stars": 72741
               }
             },
             {
@@ -237,7 +237,7 @@
                 "last_commit": "2026-08-22T19:13:16Z",
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 19558
+                "stars": 19559
               }
             },
             {
@@ -484,7 +484,7 @@
                 "last_commit": "2026-08-24T05:12:08Z",
                 "owner": "zhkl0228",
                 "repo": "unidbg",
-                "stars": 5160
+                "stars": 5161
               }
             },
             {
@@ -818,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:13:31.907Z",
+    "last_updated": "2026-08-24T15:07:18.498Z",
     "original_repository": "BlackSquirrelz/awesome-apple-security",
     "original_repository_id": 478600500,
     "original_repository_sha": "972b2d580bbd1109bbea85358dfdea4942c2d712",

@@ -109,7 +109,7 @@
 
 ## Malware
 
-* [VX-Underground Malware Source Code](https://github.com/vxunderground/MalwareSourceCode) ⭐ 18,664 | 🐛 14 | 🌐 Assembly | 📅 2026-05-30 - Malware Sourcecode collection (various OS).
+* [VX-Underground Malware Source Code](https://github.com/vxunderground/MalwareSourceCode) ⭐ 18,666 | 🐛 14 | 🌐 Assembly | 📅 2026-05-30 - Malware Sourcecode collection (various OS).
 * [Objective-See Malware](https://github.com/objective-see/Malware) ⭐ 754 | 🐛 0 | 📅 2026-08-20 - Malware Collection by Patrick Wardle.
 * [The Safe Mac](https://www.thesafemac.com/mmg-catalog/) - Older macOS Malware Catalogue.
 * [VX-Underground](https://www.vx-underground.org/archive/VxHeaven/vl.php.html) - Malware Collection (various OS).
@@ -156,9 +156,9 @@
 
 ### Reverse Engineering Tools
 
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,739 | 🐛 1,919 | 🌐 Java | 📅 2026-08-24 - A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,741 | 🐛 1,920 | 🌐 Java | 📅 2026-08-24 - A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
 * [Radare2](https://github.com/radareorg/radare2) ⭐ 24,632 | 🐛 819 | 🌐 C | 📅 2026-08-24 - UNIX-like reverse engineering framework and command-line toolset.
-* [Cutter](https://github.com/rizinorg/cutter) ⭐ 19,558 | 🐛 493 | 🌐 C++ | 📅 2026-08-22 - Free and Open Source Reverse Engineering Platform powered by rizin.
+* [Cutter](https://github.com/rizinorg/cutter) ⭐ 19,559 | 🐛 493 | 🌐 C++ | 📅 2026-08-22 - Free and Open Source Reverse Engineering Platform powered by rizin.
 * [iOS App Signer](https://github.com/DanTheMan827/ios-app-signer) ⭐ 6,314 | 🐛 123 | 🌐 Objective-C | 📅 2025-09-01 - An app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 * [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) ⭐ 3,919 | 🐛 107 | 🌐 JavaScript | 📅 2023-05-03 - A tool to pull a decrypted IPA from a jailbroken device.
 * [Clutch](https://github.com/KJCracks/Clutch) ⭐ 3,824 | 🐛 43 | 🌐 Objective-C | 📅 2024-11-15 - A high-speed iOS decryption tool.
@@ -182,7 +182,7 @@
 * [objection](https://github.com/sensepost/objection) ⭐ 9,341 | 🐛 55 | 🌐 Python | 📅 2026-07-23 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 * [Qiling](https://github.com/qilingframework/qiling) ⭐ 6,072 | 🐛 123 | 🌐 Python | 📅 2026-07-22 - An advanced binary emulation framework.
 * [fishhook](https://github.com/facebook/fishhook) ⭐ 5,424 | 🐛 39 | 🌐 C | 📅 2024-08-01 - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
-* [unidbg](https://github.com/zhkl0228/unidbg) ⭐ 5,160 | 🐛 419 | 🌐 Java | 📅 2026-08-24 - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation.
+* [unidbg](https://github.com/zhkl0228/unidbg) ⭐ 5,161 | 🐛 419 | 🌐 Java | 📅 2026-08-24 - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation.
 * [ios-deploy](https://github.com/ios-control/ios-deploy) ⭐ 3,636 | 🐛 45 | 🌐 Objective-C | 📅 2024-06-24 - Install and debug iOS apps from the command line. Designed to work on un-jailbroken devices.
 * [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,071 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-03 - Runtime Mobile Security (RMS), powered by FRIDA, is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.
 * [Passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - Simple iOS app blackbox assessment tool, powered by frida 12.x and vuejs.
