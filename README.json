@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-21T23:27:52Z",
                 "owner": "ydkhatri",
                 "repo": "mac_apt",
-                "stars": 1076
+                "stars": 1077
               }
             }
           ],
@@ -73,7 +73,7 @@
             "last_commit": "2026-05-30T07:11:00Z",
             "owner": "vxunderground",
             "repo": "MalwareSourceCode",
-            "stars": 18669
+            "stars": 18671
           }
         },
         {
@@ -88,7 +88,7 @@
             "last_commit": "2026-08-20T19:04:07Z",
             "owner": "objective-see",
             "repo": "Malware",
-            "stars": 754
+            "stars": 759
           }
         }
       ],
@@ -111,7 +111,7 @@
                 "last_commit": "2026-08-21T23:27:52Z",
                 "owner": "ydkhatri",
                 "repo": "mac_apt",
-                "stars": 1076
+                "stars": 1077
               }
             }
           ],
@@ -207,7 +207,7 @@
                 "last_commit": "2026-08-24T18:27:21Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72767
+                "stars": 72773
               }
             },
             {
@@ -219,10 +219,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-25T03:54:47Z",
+                "last_commit": "2026-08-25T12:02:05Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24638
+                "stars": 24641
               }
             },
             {
@@ -237,7 +237,7 @@
                 "last_commit": "2026-08-22T19:13:16Z",
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 19566
+                "stars": 19569
               }
             },
             {
@@ -267,7 +267,7 @@
                 "last_commit": "2023-05-03T01:42:52Z",
                 "owner": "AloneMonkey",
                 "repo": "frida-ios-dump",
-                "stars": 3919
+                "stars": 3920
               }
             },
             {
@@ -312,7 +312,7 @@
                 "last_commit": "2026-07-24T09:46:16Z",
                 "owner": "ChiChou",
                 "repo": "bagbak",
-                "stars": 1493
+                "stars": 1494
               }
             },
             {
@@ -424,7 +424,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21730
+                "stars": 21733
               }
             },
             {
@@ -439,7 +439,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9343
+                "stars": 9345
               }
             },
             {
@@ -481,10 +481,10 @@
                 "archived": false,
                 "id": 172680589,
                 "language": "Java",
-                "last_commit": "2026-08-24T05:12:08Z",
+                "last_commit": "2026-08-25T07:45:36Z",
                 "owner": "zhkl0228",
                 "repo": "unidbg",
-                "stars": 5162
+                "stars": 5163
               }
             },
             {
@@ -514,7 +514,7 @@
                 "last_commit": "2026-08-03T21:28:34Z",
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3072
+                "stars": 3073
               }
             },
             {
@@ -604,7 +604,7 @@
                 "last_commit": "2025-09-07T22:15:00Z",
                 "owner": "libimobiledevice",
                 "repo": "libusbmuxd",
-                "stars": 685
+                "stars": 686
               }
             },
             {
@@ -818,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:37:58.610Z",
+    "last_updated": "2026-08-25T14:01:29.327Z",
     "original_repository": "BlackSquirrelz/awesome-apple-security",
     "original_repository_id": 478600500,
     "original_repository_sha": "972b2d580bbd1109bbea85358dfdea4942c2d712",
