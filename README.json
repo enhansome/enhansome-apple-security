@@ -73,7 +73,7 @@
             "last_commit": "2026-05-30T07:11:00Z",
             "owner": "vxunderground",
             "repo": "MalwareSourceCode",
-            "stars": 18676
+            "stars": 18679
           }
         },
         {
@@ -207,7 +207,7 @@
                 "last_commit": "2026-08-25T16:51:31Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72924
+                "stars": 73014
               }
             },
             {
@@ -219,10 +219,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-27T08:56:54Z",
+                "last_commit": "2026-08-27T21:57:37Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24656
+                "stars": 24661
               }
             },
             {
@@ -237,7 +237,7 @@
                 "last_commit": "2026-08-22T19:13:16Z",
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 19594
+                "stars": 19599
               }
             },
             {
@@ -252,7 +252,7 @@
                 "last_commit": "2025-09-01T00:42:47Z",
                 "owner": "DanTheMan827",
                 "repo": "ios-app-signer",
-                "stars": 6313
+                "stars": 6314
               }
             },
             {
@@ -267,7 +267,7 @@
                 "last_commit": "2023-05-03T01:42:52Z",
                 "owner": "AloneMonkey",
                 "repo": "frida-ios-dump",
-                "stars": 3921
+                "stars": 3922
               }
             },
             {
@@ -312,7 +312,7 @@
                 "last_commit": "2026-07-24T09:46:16Z",
                 "owner": "ChiChou",
                 "repo": "bagbak",
-                "stars": 1494
+                "stars": 1495
               }
             },
             {
@@ -421,10 +421,10 @@
                 "archived": false,
                 "id": 9405122,
                 "language": "Meson",
-                "last_commit": "2026-08-18T13:32:43Z",
+                "last_commit": "2026-08-27T16:26:32Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21759
+                "stars": 21765
               }
             },
             {
@@ -439,7 +439,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9348
+                "stars": 9349
               }
             },
             {
@@ -454,7 +454,7 @@
                 "last_commit": "2026-07-22T14:09:44Z",
                 "owner": "qilingframework",
                 "repo": "qiling",
-                "stars": 6076
+                "stars": 6077
               }
             },
             {
@@ -484,7 +484,7 @@
                 "last_commit": "2026-08-25T07:45:36Z",
                 "owner": "zhkl0228",
                 "repo": "unidbg",
-                "stars": 5166
+                "stars": 5168
               }
             },
             {
@@ -499,7 +499,7 @@
                 "last_commit": "2024-06-24T15:30:35Z",
                 "owner": "ios-control",
                 "repo": "ios-deploy",
-                "stars": 3636
+                "stars": 3637
               }
             },
             {
@@ -544,7 +544,7 @@
                 "last_commit": "2026-08-24T23:25:59Z",
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1434
+                "stars": 1435
               }
             },
             {
@@ -559,7 +559,7 @@
                 "last_commit": "2026-08-11T19:32:49Z",
                 "owner": "ChiChou",
                 "repo": "grapefruit",
-                "stars": 1380
+                "stars": 1379
               }
             },
             {
@@ -574,7 +574,7 @@
                 "last_commit": "2024-05-16T07:32:52Z",
                 "owner": "iGio90",
                 "repo": "Dwarf",
-                "stars": 1317
+                "stars": 1318
               }
             },
             {
@@ -586,10 +586,10 @@
                 "archived": false,
                 "id": 9340574,
                 "language": "C",
-                "last_commit": "2026-08-27T11:07:31Z",
+                "last_commit": "2026-08-27T16:25:49Z",
                 "owner": "frida",
                 "repo": "frida-gum",
-                "stars": 1009
+                "stars": 1010
               }
             },
             {
@@ -664,7 +664,7 @@
                 "last_commit": "2023-01-06T11:33:25Z",
                 "owner": "neil-wu",
                 "repo": "FridaHookSwiftAlamofire",
-                "stars": 112
+                "stars": 113
               }
             }
           ],
@@ -698,7 +698,7 @@
                 "archived": false,
                 "id": 229842283,
                 "language": "Python",
-                "last_commit": "2026-08-27T01:28:09Z",
+                "last_commit": "2026-08-27T19:40:23Z",
                 "owner": "abrignoni",
                 "repo": "iLEAPP",
                 "stars": 1172
@@ -805,7 +805,7 @@
                 "last_commit": "2023-03-05T04:09:52Z",
                 "owner": "neil-wu",
                 "repo": "FridaSwiftDump",
-                "stars": 92
+                "stars": 93
               }
             }
           ],
@@ -818,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:07.392Z",
+    "last_updated": "2026-08-27T22:56:45.575Z",
     "original_repository_info": {
       "archived": false,
       "id": 478600500,
