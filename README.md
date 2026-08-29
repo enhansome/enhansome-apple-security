@@ -156,14 +156,14 @@
 
 ### Reverse Engineering Tools
 
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 73,313 | 🐛 1,921 | 🌐 Java | 📅 2026-08-28 - A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
-* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,672 | 🐛 822 | 🌐 C | 📅 2026-08-28 - UNIX-like reverse engineering framework and command-line toolset.
-* [Cutter](https://github.com/rizinorg/cutter) ⭐ 19,611 | 🐛 494 | 🌐 C++ | 📅 2026-08-22 - Free and Open Source Reverse Engineering Platform powered by rizin.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 73,392 | 🐛 1,921 | 🌐 Java | 📅 2026-08-28 - A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
+* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,674 | 🐛 825 | 🌐 C | 📅 2026-08-29 - UNIX-like reverse engineering framework and command-line toolset.
+* [Cutter](https://github.com/rizinorg/cutter) ⭐ 19,613 | 🐛 494 | 🌐 C++ | 📅 2026-08-22 - Free and Open Source Reverse Engineering Platform powered by rizin.
 * [iOS App Signer](https://github.com/DanTheMan827/ios-app-signer) ⭐ 6,314 | 🐛 123 | 🌐 Objective-C | 📅 2025-09-01 - An app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 * [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) ⭐ 3,922 | 🐛 107 | 🌐 JavaScript | 📅 2023-05-03 - A tool to pull a decrypted IPA from a jailbroken device.
 * [Clutch](https://github.com/KJCracks/Clutch) ⭐ 3,824 | 🐛 43 | 🌐 Objective-C | 📅 2024-11-15 - A high-speed iOS decryption tool.
 * [class-dump](https://github.com/nygard/class-dump) ⭐ 3,585 | 🐛 41 | 🌐 Objective-C | 📅 2022-04-06 - A command-line utility for examining the Objective-C segment of Mach-O files.
-* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,495 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-24 - Yet another frida based App decryptor. Requires jailbroken iOS device and frida.re.
+* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,496 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-24 - Yet another frida based App decryptor. Requires jailbroken iOS device and frida.re.
 * [dsdump](https://github.com/DerekSelander/dsdump) ⚠️ Archived - An improved nm + objc/swift class-dump tool.
 * [flexdecrypt](https://github.com/JohnCoates/flexdecrypt) ⭐ 738 | 🐛 8 | 🌐 Swift | 📅 2023-06-24 - An iOS App & Mach-O binary decryptor.
 * [bfinject](https://github.com/BishopFox/bfinject) ⭐ 642 | 🐛 34 | 🌐 Objective-C++ | 📅 2022-03-17 - Easy dylib injection for jailbroken 64-bit iOS 11.0 - 11.1.2. Compatible with Electra and LiberiOS jailbreaks.
@@ -178,11 +178,11 @@
 
 ### Dynamic Analysis Tools
 
-* [Frida](https://github.com/frida/frida) ⭐ 21,780 | 🐛 1,959 | 🌐 Meson | 📅 2026-08-27 - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+* [Frida](https://github.com/frida/frida) ⭐ 21,783 | 🐛 1,959 | 🌐 Meson | 📅 2026-08-27 - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 * [objection](https://github.com/sensepost/objection) ⭐ 9,350 | 🐛 55 | 🌐 Python | 📅 2026-07-23 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 * [Qiling](https://github.com/qilingframework/qiling) ⭐ 6,079 | 🐛 122 | 🌐 Python | 📅 2026-07-22 - An advanced binary emulation framework.
 * [fishhook](https://github.com/facebook/fishhook) ⭐ 5,427 | 🐛 39 | 🌐 C | 📅 2024-08-01 - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
-* [unidbg](https://github.com/zhkl0228/unidbg) ⭐ 5,170 | 🐛 419 | 🌐 Java | 📅 2026-08-25 - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation.
+* [unidbg](https://github.com/zhkl0228/unidbg) ⭐ 5,172 | 🐛 419 | 🌐 Java | 📅 2026-08-25 - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation.
 * [ios-deploy](https://github.com/ios-control/ios-deploy) ⭐ 3,637 | 🐛 45 | 🌐 Objective-C | 📅 2024-06-24 - Install and debug iOS apps from the command line. Designed to work on un-jailbroken devices.
 * [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,077 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-03 - Runtime Mobile Security (RMS), powered by FRIDA, is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.
 * [Passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - Simple iOS app blackbox assessment tool, powered by frida 12.x and vuejs.
@@ -205,7 +205,7 @@
 ### Static Analysis Tools
 
 * [Keychain Dumper](https://github.com/ptoomey3/Keychain-Dumper) ⭐ 1,419 | 🐛 19 | 🌐 Objective-C | 📅 2024-08-15 - A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken.
-* [iLEAPP](https://github.com/abrignoni/iLEAPP) ⭐ 1,176 | 🐛 60 | 🌐 Python | 📅 2026-08-28 - An iOS Logs, Events, And Plist Parser.
+* [iLEAPP](https://github.com/abrignoni/iLEAPP) ⭐ 1,176 | 🐛 60 | 🌐 Python | 📅 2026-08-29 - An iOS Logs, Events, And Plist Parser.
 * [XMachOViewer](https://github.com/horsicq/XMachOViewer) ⭐ 960 | 🐛 4 | 🌐 C++ | 📅 2026-08-28 - A Mach-O viewer for Windows, Linux and macOS.
 * [MachO-Explorer](https://github.com/DeVaukz/MachO-Explorer) ⭐ 677 | 🐛 5 | 🌐 Swift | 📅 2020-09-05 - A graphical Mach-O viewer for macOS. Powered by Mach-O Kit.
 * [BinaryCookieReader](https://github.com/as0ler/BinaryCookieReader) ⭐ 106 | 🐛 1 | 🌐 Python | 📅 2024-09-28 - A tool to read the binarycookie format of Cookies on iOS applications.
@@ -255,4 +255,4 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
