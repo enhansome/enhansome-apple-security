@@ -59,7 +59,7 @@
                 "id": 101311218,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:21:42Z",
+                "last_commit": "2026-10-02T00:35:59Z",
                 "open_issues": 9,
                 "owner": "ydkhatri",
                 "repo": "mac_apt",
@@ -99,7 +99,7 @@
             "open_issues": 14,
             "owner": "vxunderground",
             "repo": "MalwareSourceCode",
-            "stars": 18761,
+            "stars": 18763,
             "topics": [
               "malware",
               "malware-detection",
@@ -125,7 +125,7 @@
             "open_issues": 0,
             "owner": "objective-see",
             "repo": "Malware",
-            "stars": 786,
+            "stars": 788,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:55.491Z"
@@ -150,7 +150,7 @@
                 "id": 101311218,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:21:42Z",
+                "last_commit": "2026-10-02T00:35:59Z",
                 "open_issues": 9,
                 "owner": "ydkhatri",
                 "repo": "mac_apt",
@@ -291,10 +291,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T09:03:44Z",
-                "open_issues": 1967,
+                "open_issues": 1973,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 80184,
+                "stars": 80319,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -315,11 +315,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T18:40:10Z",
-                "open_issues": 800,
+                "last_commit": "2026-10-02T17:13:48Z",
+                "open_issues": 795,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24908,
+                "stars": 24911,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -351,7 +351,7 @@
                 "open_issues": 497,
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 19857,
+                "stars": 19858,
                 "topics": [
                   "cutter",
                   "debugger",
@@ -399,7 +399,7 @@
                 "open_issues": 107,
                 "owner": "AloneMonkey",
                 "repo": "frida-ios-dump",
-                "stars": 3930,
+                "stars": 3933,
                 "topics": [
                   "decrypted",
                   "dumpdecrypted",
@@ -426,7 +426,7 @@
                 "open_issues": 43,
                 "owner": "KJCracks",
                 "repo": "Clutch",
-                "stars": 3826,
+                "stars": 3825,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -468,7 +468,7 @@
                 "open_issues": 3,
                 "owner": "ChiChou",
                 "repo": "bagbak",
-                "stars": 1503,
+                "stars": 1502,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -489,7 +489,7 @@
                 "open_issues": 20,
                 "owner": "DerekSelander",
                 "repo": "dsdump",
-                "stars": 1225,
+                "stars": 1224,
                 "topics": [
                   "class-dump",
                   "nlist",
@@ -518,7 +518,7 @@
                 "open_issues": 8,
                 "owner": "JohnCoates",
                 "repo": "flexdecrypt",
-                "stars": 739,
+                "stars": 740,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -634,11 +634,11 @@
                 "id": 9405122,
                 "language": "Meson",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T11:15:58Z",
-                "open_issues": 1971,
+                "last_commit": "2026-10-02T01:13:49Z",
+                "open_issues": 1972,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22094,
+                "stars": 22098,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -693,7 +693,7 @@
                 "open_issues": 114,
                 "owner": "qilingframework",
                 "repo": "qiling",
-                "stars": 6116,
+                "stars": 6117,
                 "topics": [
                   "analysis",
                   "binary",
@@ -747,7 +747,7 @@
                 "open_issues": 420,
                 "owner": "zhkl0228",
                 "repo": "unidbg",
-                "stars": 5238,
+                "stars": 5243,
                 "topics": [
                   "android",
                   "capstone",
@@ -806,7 +806,7 @@
                 "open_issues": 10,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3097,
+                "stars": 3098,
                 "topics": [
                   "android-security",
                   "frida",
@@ -850,8 +850,8 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T15:18:21Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-02T15:44:37Z",
+                "open_issues": 40,
                 "owner": "nowsecure",
                 "repo": "r2frida",
                 "stars": 1447,
@@ -937,7 +937,7 @@
                 "id": 9340574,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-27T15:33:45Z",
+                "last_commit": "2026-10-02T18:21:07Z",
                 "open_issues": 202,
                 "owner": "frida",
                 "repo": "frida-gum",
@@ -965,7 +965,7 @@
                 "open_issues": 31,
                 "owner": "libimobiledevice",
                 "repo": "libusbmuxd",
-                "stars": 690,
+                "stars": 691,
                 "topics": [
                   "c",
                   "ios",
@@ -993,7 +993,7 @@
                 "open_issues": 3,
                 "owner": "radareorg",
                 "repo": "r2ghidra",
-                "stars": 554,
+                "stars": 555,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -1122,11 +1122,11 @@
                 "id": 229842283,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T18:45:51Z",
-                "open_issues": 58,
+                "last_commit": "2026-10-02T18:02:50Z",
+                "open_issues": 59,
                 "owner": "abrignoni",
                 "repo": "iLEAPP",
-                "stars": 1341,
+                "stars": 1345,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -1143,7 +1143,7 @@
                 "id": 182052450,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-01T18:25:00Z",
+                "last_commit": "2026-10-02T17:19:13Z",
                 "open_issues": 4,
                 "owner": "horsicq",
                 "repo": "XMachOViewer",
@@ -1298,7 +1298,7 @@
                 "open_issues": 9,
                 "owner": "neil-wu",
                 "repo": "FridaSwiftDump",
-                "stars": 93,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -1313,7 +1313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:51:00.040Z",
+    "last_updated": "2026-10-02T18:22:57.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of tools, techniques and resources related to Apple Security (macOS, iOS, iPadOS, tvOS, watchOS) aimed to help people with an interest in Apple related security topics to get a hold in this field, and for professionals to discover / explore other resources.",
