@@ -60,7 +60,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-27T12:34:44Z",
-                "open_issues": 8,
+                "open_issues": 10,
                 "owner": "ydkhatri",
                 "repo": "mac_apt",
                 "stars": 1098,
@@ -99,7 +99,7 @@
             "open_issues": 14,
             "owner": "vxunderground",
             "repo": "MalwareSourceCode",
-            "stars": 18868,
+            "stars": 18869,
             "topics": [
               "malware",
               "malware-detection",
@@ -151,7 +151,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-27T12:34:44Z",
-                "open_issues": 8,
+                "open_issues": 10,
                 "owner": "ydkhatri",
                 "repo": "mac_apt",
                 "stars": 1098,
@@ -231,11 +231,11 @@
                 "id": 1209966933,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T18:44:55Z",
-                "open_issues": 1424,
+                "last_commit": "2026-10-29T18:51:07Z",
+                "open_issues": 1275,
                 "owner": "morluto",
                 "repo": "rea",
-                "stars": 401650,
+                "stars": 406942,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -339,11 +339,11 @@
                 "id": 173228436,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T09:14:00Z",
-                "open_issues": 2168,
+                "last_commit": "2026-10-29T15:37:36Z",
+                "open_issues": 2160,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 95437,
+                "stars": 95790,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -364,11 +364,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T16:20:13Z",
-                "open_issues": 797,
+                "last_commit": "2026-10-29T18:09:41Z",
+                "open_issues": 810,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25194,
+                "stars": 25204,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -400,7 +400,7 @@
                 "open_issues": 500,
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 20111,
+                "stars": 20114,
                 "topics": [
                   "cutter",
                   "debugger",
@@ -448,7 +448,7 @@
                 "open_issues": 107,
                 "owner": "AloneMonkey",
                 "repo": "frida-ios-dump",
-                "stars": 3977,
+                "stars": 3978,
                 "topics": [
                   "decrypted",
                   "dumpdecrypted",
@@ -517,7 +517,7 @@
                 "open_issues": 5,
                 "owner": "ChiChou",
                 "repo": "bagbak",
-                "stars": 1513,
+                "stars": 1512,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -684,10 +684,10 @@
                 "language": "Meson",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-28T14:06:01Z",
-                "open_issues": 1980,
+                "open_issues": 1981,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22522,
+                "stars": 22538,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -712,7 +712,7 @@
                 "open_issues": 54,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9470,
+                "stars": 9472,
                 "topics": [
                   "android",
                   "framework",
@@ -775,7 +775,7 @@
                 "open_issues": 39,
                 "owner": "meta",
                 "repo": "fishhook",
-                "stars": 5432,
+                "stars": 5433,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -792,11 +792,11 @@
                 "id": 172680589,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T02:06:27Z",
-                "open_issues": 426,
+                "last_commit": "2026-10-29T08:03:16Z",
+                "open_issues": 418,
                 "owner": "zhkl0228",
                 "repo": "unidbg",
-                "stars": 5294,
+                "stars": 5296,
                 "topics": [
                   "android",
                   "capstone",
@@ -855,7 +855,7 @@
                 "open_issues": 12,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3135,
+                "stars": 3134,
                 "topics": [
                   "android-security",
                   "frida",
@@ -899,11 +899,11 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T13:05:06Z",
+                "last_commit": "2026-10-28T19:01:24Z",
                 "open_issues": 48,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1449,
+                "stars": 1450,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -986,11 +986,11 @@
                 "id": 9340574,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T14:47:54Z",
+                "last_commit": "2026-10-29T17:31:01Z",
                 "open_issues": 206,
                 "owner": "frida",
                 "repo": "frida-gum",
-                "stars": 1036,
+                "stars": 1037,
                 "topics": [
                   "frida",
                   "instrumentation"
@@ -1042,7 +1042,7 @@
                 "open_issues": 3,
                 "owner": "radareorg",
                 "repo": "r2ghidra",
-                "stars": 565,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -1154,7 +1154,7 @@
                 "open_issues": 19,
                 "owner": "ptoomey3",
                 "repo": "Keychain-Dumper",
-                "stars": 1429,
+                "stars": 1428,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -1171,7 +1171,7 @@
                 "id": 229842283,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-28T02:56:35Z",
+                "last_commit": "2026-10-29T15:34:09Z",
                 "open_issues": 50,
                 "owner": "abrignoni",
                 "repo": "iLEAPP",
@@ -1192,7 +1192,7 @@
                 "id": 182052450,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-28T18:07:28Z",
+                "last_commit": "2026-10-29T09:00:23Z",
                 "open_issues": 4,
                 "owner": "horsicq",
                 "repo": "XMachOViewer",
@@ -1362,7 +1362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:48:53.505Z",
+    "last_updated": "2026-10-29T18:56:13.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of tools, techniques and resources related to Apple Security (macOS, iOS, iPadOS, tvOS, watchOS) aimed to help people with an interest in Apple related security topics to get a hold in this field, and for professionals to discover / explore other resources.",
