@@ -99,7 +99,7 @@
             "open_issues": 14,
             "owner": "vxunderground",
             "repo": "MalwareSourceCode",
-            "stars": 18901,
+            "stars": 18903,
             "topics": [
               "malware",
               "malware-detection",
@@ -125,7 +125,7 @@
             "open_issues": 0,
             "owner": "objective-see",
             "repo": "Malware",
-            "stars": 801,
+            "stars": 800,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:55.491Z"
@@ -231,11 +231,11 @@
                 "id": 1209966933,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T17:59:29Z",
-                "open_issues": 1604,
+                "last_commit": "2026-11-08T18:18:31Z",
+                "open_issues": 1658,
                 "owner": "morluto",
                 "repo": "rea",
-                "stars": 440360,
+                "stars": 443117,
                 "topics": [
                   "agent-skills",
                   "ai",
@@ -340,10 +340,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T16:27:03Z",
-                "open_issues": 2191,
+                "open_issues": 2202,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 98535,
+                "stars": 98702,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -364,11 +364,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T16:09:46Z",
-                "open_issues": 793,
+                "last_commit": "2026-11-08T17:20:47Z",
+                "open_issues": 795,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25353,
+                "stars": 25359,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -397,10 +397,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-03T14:51:27Z",
-                "open_issues": 498,
+                "open_issues": 500,
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 20175,
+                "stars": 20176,
                 "topics": [
                   "cutter",
                   "debugger",
@@ -448,7 +448,7 @@
                 "open_issues": 107,
                 "owner": "AloneMonkey",
                 "repo": "frida-ios-dump",
-                "stars": 3991,
+                "stars": 3993,
                 "topics": [
                   "decrypted",
                   "dumpdecrypted",
@@ -475,7 +475,7 @@
                 "open_issues": 43,
                 "owner": "KJCracks",
                 "repo": "Clutch",
-                "stars": 3831,
+                "stars": 3832,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -496,7 +496,7 @@
                 "open_issues": 41,
                 "owner": "nygard",
                 "repo": "class-dump",
-                "stars": 3588,
+                "stars": 3589,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -684,10 +684,10 @@
                 "language": "Meson",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-07T16:29:38Z",
-                "open_issues": 1974,
+                "open_issues": 1973,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22693,
+                "stars": 22711,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -712,7 +712,7 @@
                 "open_issues": 55,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9489,
+                "stars": 9494,
                 "topics": [
                   "android",
                   "framework",
@@ -775,7 +775,7 @@
                 "open_issues": 39,
                 "owner": "meta",
                 "repo": "fishhook",
-                "stars": 5436,
+                "stars": 5435,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -855,7 +855,7 @@
                 "open_issues": 12,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3142,
+                "stars": 3141,
                 "topics": [
                   "android-security",
                   "frida",
@@ -931,7 +931,7 @@
                 "open_issues": 13,
                 "owner": "ChiChou",
                 "repo": "grapefruit",
-                "stars": 1404,
+                "stars": 1406,
                 "topics": [
                   "ios",
                   "mobile",
@@ -987,7 +987,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-07T14:45:31Z",
-                "open_issues": 203,
+                "open_issues": 204,
                 "owner": "frida",
                 "repo": "frida-gum",
                 "stars": 1040,
@@ -1038,8 +1038,8 @@
                 "id": 323166300,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T13:30:51Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-08T10:41:48Z",
+                "open_issues": 0,
                 "owner": "radareorg",
                 "repo": "r2ghidra",
                 "stars": 574,
@@ -1140,6 +1140,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "iLEAPP",
+              "description": "An iOS Logs, Events, And Plist Parser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "iOS Logs, Events, And Plist Parser",
+                "homepage": null,
+                "id": 229842283,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-07T20:51:44Z",
+                "open_issues": 55,
+                "owner": "abrignoni",
+                "repo": "iLEAPP",
+                "stars": 1430,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:00:55.491Z"
+            },
+            {
+              "node_type": "item",
               "title": "Keychain Dumper",
               "description": "A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken.",
               "children": [],
@@ -1161,27 +1182,6 @@
             },
             {
               "node_type": "item",
-              "title": "iLEAPP",
-              "description": "An iOS Logs, Events, And Plist Parser.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "iOS Logs, Events, And Plist Parser",
-                "homepage": null,
-                "id": 229842283,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-11-07T16:15:23Z",
-                "open_issues": 56,
-                "owner": "abrignoni",
-                "repo": "iLEAPP",
-                "stars": 1423,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:00:55.491Z"
-            },
-            {
-              "node_type": "item",
               "title": "XMachOViewer",
               "description": "A Mach-O viewer for Windows, Linux and macOS.",
               "children": [],
@@ -1192,7 +1192,7 @@
                 "id": 182052450,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-05T07:25:48Z",
+                "last_commit": "2026-11-08T07:25:39Z",
                 "open_issues": 4,
                 "owner": "horsicq",
                 "repo": "XMachOViewer",
@@ -1362,7 +1362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:01:10.228Z",
+    "last_updated": "2026-11-08T18:19:52.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of tools, techniques and resources related to Apple Security (macOS, iOS, iPadOS, tvOS, watchOS) aimed to help people with an interest in Apple related security topics to get a hold in this field, and for professionals to discover / explore other resources.",
