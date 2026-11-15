@@ -96,10 +96,10 @@
             "language": "Assembly",
             "license": null,
             "last_commit": "2026-05-30T07:11:00Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "vxunderground",
             "repo": "MalwareSourceCode",
-            "stars": 18922,
+            "stars": 18923,
             "topics": [
               "malware",
               "malware-detection",
@@ -231,11 +231,11 @@
                 "id": 1209966933,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-14T18:40:28Z",
-                "open_issues": 1540,
+                "last_commit": "2026-11-15T19:20:09Z",
+                "open_issues": 1533,
                 "owner": "morluto",
                 "repo": "rea",
-                "stars": 459427,
+                "stars": 461576,
                 "topics": [
                   "agent-skills",
                   "ai",
@@ -340,10 +340,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-10T11:31:34Z",
-                "open_issues": 2223,
+                "open_issues": 2232,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 100045,
+                "stars": 100179,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -364,11 +364,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T12:13:02Z",
-                "open_issues": 799,
+                "last_commit": "2026-11-15T17:08:29Z",
+                "open_issues": 831,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25431,
+                "stars": 25434,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -400,7 +400,7 @@
                 "open_issues": 502,
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 20217,
+                "stars": 20221,
                 "topics": [
                   "cutter",
                   "debugger",
@@ -427,7 +427,7 @@
                 "open_issues": 123,
                 "owner": "DanTheMan827",
                 "repo": "ios-app-signer",
-                "stars": 6341,
+                "stars": 6343,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -448,7 +448,7 @@
                 "open_issues": 106,
                 "owner": "AloneMonkey",
                 "repo": "frida-ios-dump",
-                "stars": 3999,
+                "stars": 4002,
                 "topics": [
                   "decrypted",
                   "dumpdecrypted",
@@ -475,7 +475,7 @@
                 "open_issues": 43,
                 "owner": "KJCracks",
                 "repo": "Clutch",
-                "stars": 3832,
+                "stars": 3831,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -517,7 +517,7 @@
                 "open_issues": 6,
                 "owner": "ChiChou",
                 "repo": "bagbak",
-                "stars": 1512,
+                "stars": 1513,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -687,7 +687,7 @@
                 "open_issues": 1970,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22787,
+                "stars": 22797,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -742,7 +742,7 @@
                 "open_issues": 121,
                 "owner": "qilingframework",
                 "repo": "qiling",
-                "stars": 6174,
+                "stars": 6175,
                 "topics": [
                   "analysis",
                   "binary",
@@ -796,7 +796,7 @@
                 "open_issues": 417,
                 "owner": "zhkl0228",
                 "repo": "unidbg",
-                "stars": 5321,
+                "stars": 5323,
                 "topics": [
                   "android",
                   "capstone",
@@ -855,7 +855,7 @@
                 "open_issues": 12,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3150,
+                "stars": 3151,
                 "topics": [
                   "android-security",
                   "frida",
@@ -1010,8 +1010,8 @@
                 "id": 12892000,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2025-09-07T22:15:00Z",
-                "open_issues": 33,
+                "last_commit": "2026-11-15T14:13:43Z",
+                "open_issues": 30,
                 "owner": "libimobiledevice",
                 "repo": "libusbmuxd",
                 "stars": 691,
@@ -1154,7 +1154,7 @@
                 "open_issues": 48,
                 "owner": "abrignoni",
                 "repo": "iLEAPP",
-                "stars": 1448,
+                "stars": 1449,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:55.491Z"
@@ -1192,7 +1192,7 @@
                 "id": 182052450,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-14T07:25:41Z",
+                "last_commit": "2026-11-15T07:25:35Z",
                 "open_issues": 4,
                 "owner": "horsicq",
                 "repo": "XMachOViewer",
@@ -1362,7 +1362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:43:02.634Z",
+    "last_updated": "2026-11-15T19:21:02.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of tools, techniques and resources related to Apple Security (macOS, iOS, iPadOS, tvOS, watchOS) aimed to help people with an interest in Apple related security topics to get a hold in this field, and for professionals to discover / explore other resources.",
